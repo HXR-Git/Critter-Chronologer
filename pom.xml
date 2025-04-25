@@ -8,8 +8,8 @@
 		<version>3.3.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.udacity.CritterChronolger</groupId>
-	<artifactId>CritterChronolger</artifactId>
+	<groupId>com.udacity.CritterChronologer</groupId>
+	<artifactId>CritterChronologer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>critter</name>
 	<description>Starter code for Critter Chronologer project</description>
